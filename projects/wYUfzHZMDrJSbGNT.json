@@ -1,0 +1,2888 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "e1000001-0000-4000-8000-000000000001",
+        "text": {
+          "ops": [
+            {
+              "insert": "Conversation History"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "d319e4de-6d69-4c05-b059-652cb74c3e61",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-10-18T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e5ec49ff-e45d-4c9a-ab5b-8f479eaa70dc",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-10-17T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2a523d6e-5be4-4df6-9dd1-0463fd89c657",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-10-16T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "470ac2a4-c264-49a7-af3f-5084324c23da",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-10-15T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "55f3bb83-cb2f-44c7-80d3-42e041760a81",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-10-14T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b1229616-d293-42c8-bfd9-2e3a0cecca61",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-10-13T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e5c8cdb3-1848-4523-bc40-0da0bf68f05e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-10-12T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b7a36c32-0b17-4407-a7d6-e02c76032d85",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-10-11T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "108d678c-3825-418d-86fb-d94199a05682",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-10-10T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "10a4a9e3-eef4-4c72-ad3b-d0555278f97d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-10-09T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "7a8bcee3-b4a3-44dc-9075-6340697e5a5e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-10-08T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "62a33493-f9c9-485f-9abe-4e70e99c04ae",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-10-07T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e261d714-0c74-4860-bb00-8768ac525ea2",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-10-06T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a798cd06-af76-408e-8d87-d0e2bf6d2f5e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-10-05T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "36a3cbe3-566e-41b1-b153-382a7a631397",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-10-04T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "82b7bdc7-d663-4eb4-a144-b1635ae1787e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-10-03T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2d812db8-8ea3-4303-806b-86104aae1a75",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-10-02T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "241bdc14-bedb-453f-9515-a9feff372bc2",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-10-01T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "5d6e2bc2-f87c-494f-8ac1-8f96b8c37297",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-30T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1c93d23f-e86c-4014-904e-6095e272f835",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-29T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b61c0927-40df-4ed7-9f90-e98aaf6e819a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-28T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a22db0b7-23e1-4eda-99cb-c227c7b7a3b6",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-27T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a4580f0c-da5b-415c-aaac-1670f7ca2eba",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-26T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1928e596-2792-41e9-ad73-e6b8597bbfc2",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-25T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "721e602d-b102-452d-bb0f-ba5dce759006",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-24T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "3cb06b6c-d199-488b-8824-cc385d3f3147",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-23T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "14215bfe-61b8-48d7-b7e6-782f06c95a49",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-22T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ff241741-fc7a-49c9-8dad-ea5224666d28",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-21T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e3142db9-064e-4723-951e-24fc15501089",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-20T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a933d44f-072f-482b-bd6e-7bb7f37360e2",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-19T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "696d737a-a7de-4961-87ab-9a355d55a2ef",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-18T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "199e742a-9789-4ffb-aa29-c08138c63e90",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-17T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "50e8c0c5-54de-47c1-a7e3-2c83d780802a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-16T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2a0a47f5-934a-4cd7-8705-891ec0162ce8",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-15T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "277926ae-c99d-4b16-b93c-fa973502c736",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-14T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9d550b6b-9a51-43d0-ac85-7b34454af6bc",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-13T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "63af6ec0-9c2d-4c33-92dd-10a3a620b299",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-12T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "df9144a6-e40f-4c42-9805-202489595648",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-11T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a8f9b24d-a090-4428-a329-fcab7a4cc126",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-10T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1ab160c4-87b6-4ce2-9852-895b5f95b71d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-09T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2936df8b-cf0f-46db-b13f-16c32fbc4070",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-08T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "de58c91a-b736-4fe8-846c-a2f6ea180568",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-07T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "44e0ed42-5122-4c05-93db-3016ebe5eaf2",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-06T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f9a68273-94e5-4c72-b899-1df8aa076be5",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-05T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "18803219-06e6-4bb3-85f9-7b0b23b51558",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-04T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9e197645-e1f6-408a-baf7-a463823d6483",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-03T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1489fb9c-72dd-4d1c-92ac-55e8ba2f061c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-02T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "8f825a69-beb9-4562-951d-826a328aff85",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-09-01T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "728db8f8-3d5a-4d89-a184-f8bfd241d0b0",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-31T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "dcae07c0-99e0-49ab-9292-86263c382d5e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-30T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "dbbb73a6-9551-4ec9-8978-b0a234b877e5",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-29T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f51f8738-b263-4683-a898-89906eb6d290",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-28T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1ee6f474-3f21-4c70-87a2-151497628bb8",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-27T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "3521bf4f-a532-4cfb-973c-73ba69a41d8d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-26T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f553ec3c-2b69-49fc-a5da-5753ca4e9b01",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-25T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "55a3d504-53dc-42db-bf77-d8c36ed1d00f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-24T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "68fd3381-e6ae-4401-a897-a043b8e792a6",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-23T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "4f791de6-fe21-4815-8ccc-0e80eff02e22",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-22T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "bc18c2ed-6048-4c75-9768-e33b9237d583",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-21T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "3b165faf-23a5-4a42-8f38-c62628ca6a3d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-20T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "0ef8fedd-a280-4af8-ae4c-04cb74e0761a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-19T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b040b7fe-dd57-4394-88fb-66abe01c4ff1",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-18T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ef3c1bc7-c5a8-4944-b2b7-47dd8a144cfe",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-17T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "282f7738-22f4-494b-9afe-d7009ee3370b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-16T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "0f843aa9-72a5-4fdc-9c8f-3663763e8ac1",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-15T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "68305876-17a6-44cb-b3a5-4e80de58c98e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-14T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "95dd7967-9c32-4e96-b5e2-e3074858490c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-13T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "6b6b4e71-2b79-4afc-b3f5-ea3c5b2dcebe",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-12T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ab3c777e-081f-44e0-8c57-04d79efdc8ab",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-11T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "df871862-7e09-4f05-ba62-a622b3ac10e4",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-10T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "fbf21f84-be14-4802-80c9-d1e32dd6eeec",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-09T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ecfcfc2e-e13c-4237-b727-0cf265d6983b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-08T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ed137a2b-daa0-4b31-bad2-d5d970154cee",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-07T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "8d34bfa4-e038-4aa5-8410-5b533e640a16",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-06T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "432000cf-367e-4938-8d81-d8351fc64ccc",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-05T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e0e227ac-cc45-401d-9384-c0818267fe3f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-04T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "275a1697-dcea-4fdd-86ab-2a1c0db4034b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-03T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "6d6eee42-794d-4a58-b2fd-24c19489cd17",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-02T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9768974b-e1cd-4c25-923d-a72d17d4dc99",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-08-01T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2b9734b4-e5df-444a-9e25-fb1419888a5d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Report - 2026-07-31T08:00:00.000+02:00[Africa/Johannesburg]"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "59349350-a796-416e-bec4-aada7827f660",
+            "text": {
+              "ops": [
+                {
+                  "insert": "hello"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": true,
+            "attributes": {
+              "@cnv1": "xAI Grok",
+              "@cnv2": "Grok 3 Fast",
+              "@cnv3": "",
+              "@cnv4": 2,
+              "@cnv5": 70,
+              "@cnv6": {
+                "type": "Select",
+                "optionId": "active"
+              },
+              "@cnv7": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-04-12",
+                  "time": "11:21:41",
+                  "timezone": "Etc/UTC"
+                }
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "789d10a4-537e-49b4-8ae7-ccc1e1539655",
+            "text": {
+              "ops": [
+                {
+                  "insert": "test"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": true,
+            "attributes": {
+              "@cnv1": "Test Mode",
+              "@cnv2": "Test · Conversational",
+              "@cnv3": "",
+              "@cnv4": 2,
+              "@cnv5": 100,
+              "@cnv6": {
+                "type": "Select",
+                "optionId": "active"
+              },
+              "@cnv7": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-04-12",
+                  "time": "12:04:28",
+                  "timezone": "Etc/UTC"
+                }
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "67444e40-e353-4d43-ae50-4f71b062acae",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Write a TypeScript function that debounces an async function"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": true,
+            "attributes": {
+              "@cnv1": "Test Mode",
+              "@cnv2": "Test · Conversational",
+              "@cnv3": "",
+              "@cnv4": 2,
+              "@cnv5": 129,
+              "@cnv6": {
+                "type": "Select",
+                "optionId": "active"
+              },
+              "@cnv7": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-07-30",
+                  "time": "21:29:11",
+                  "timezone": "Etc/UTC"
+                }
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "cabf3006-76c2-4176-8e98-55f67453a552",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Remember that my name is Alex and I work on AI products. Now"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": true,
+            "attributes": {
+              "@cnv1": "Test Mode",
+              "@cnv2": "Test · Conversational",
+              "@cnv3": "",
+              "@cnv4": 2,
+              "@cnv5": 222,
+              "@cnv6": {
+                "type": "Select",
+                "optionId": "active"
+              },
+              "@cnv7": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-07-30",
+                  "time": "21:31:03",
+                  "timezone": "Etc/UTC"
+                }
+              }
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@cnv1": {
+            "id": "/attributes/@cnv1",
+            "fieldPath": "/attributes/@cnv1",
+            "rank": "z"
+          },
+          "/attributes/@cnv2": {
+            "id": "/attributes/@cnv2",
+            "fieldPath": "/attributes/@cnv2",
+            "rank": "zV"
+          },
+          "/attributes/@cnv3": {
+            "id": "/attributes/@cnv3",
+            "fieldPath": "/attributes/@cnv3",
+            "rank": "zk"
+          },
+          "/attributes/@cnv4": {
+            "id": "/attributes/@cnv4",
+            "fieldPath": "/attributes/@cnv4",
+            "rank": "zs"
+          },
+          "/attributes/@cnv5": {
+            "id": "/attributes/@cnv5",
+            "fieldPath": "/attributes/@cnv5",
+            "rank": "zw"
+          },
+          "/attributes/@cnv6": {
+            "id": "/attributes/@cnv6",
+            "fieldPath": "/attributes/@cnv6",
+            "rank": "zy"
+          },
+          "/attributes/@cnv7": {
+            "id": "/attributes/@cnv7",
+            "fieldPath": "/attributes/@cnv7",
+            "rank": "zz"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@cnv1": {
+            "id": "/attributes/@cnv1",
+            "fieldPath": "/attributes/@cnv1",
+            "rank": "z"
+          },
+          "/attributes/@cnv2": {
+            "id": "/attributes/@cnv2",
+            "fieldPath": "/attributes/@cnv2",
+            "rank": "zV"
+          },
+          "/attributes/@cnv3": {
+            "id": "/attributes/@cnv3",
+            "fieldPath": "/attributes/@cnv3",
+            "rank": "zk"
+          },
+          "/attributes/@cnv4": {
+            "id": "/attributes/@cnv4",
+            "fieldPath": "/attributes/@cnv4",
+            "rank": "zs"
+          },
+          "/attributes/@cnv5": {
+            "id": "/attributes/@cnv5",
+            "fieldPath": "/attributes/@cnv5",
+            "rank": "zw"
+          },
+          "/attributes/@cnv6": {
+            "id": "/attributes/@cnv6",
+            "fieldPath": "/attributes/@cnv6",
+            "rank": "zy"
+          },
+          "/attributes/@cnv7": {
+            "id": "/attributes/@cnv7",
+            "fieldPath": "/attributes/@cnv7",
+            "rank": "zz"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "D",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@cnv1": {
+            "id": "/attributes/@cnv1",
+            "fieldPath": "/attributes/@cnv1",
+            "rank": "z"
+          },
+          "/attributes/@cnv2": {
+            "id": "/attributes/@cnv2",
+            "fieldPath": "/attributes/@cnv2",
+            "rank": "zV"
+          },
+          "/attributes/@cnv3": {
+            "id": "/attributes/@cnv3",
+            "fieldPath": "/attributes/@cnv3",
+            "rank": "zk"
+          },
+          "/attributes/@cnv4": {
+            "id": "/attributes/@cnv4",
+            "fieldPath": "/attributes/@cnv4",
+            "rank": "zs"
+          },
+          "/attributes/@cnv5": {
+            "id": "/attributes/@cnv5",
+            "fieldPath": "/attributes/@cnv5",
+            "rank": "zw"
+          },
+          "/attributes/@cnv6": {
+            "id": "/attributes/@cnv6",
+            "fieldPath": "/attributes/@cnv6",
+            "rank": "zy"
+          },
+          "/attributes/@cnv7": {
+            "id": "/attributes/@cnv7",
+            "fieldPath": "/attributes/@cnv7",
+            "rank": "zz"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "E",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@cnv1": {
+            "id": "/attributes/@cnv1",
+            "fieldPath": "/attributes/@cnv1",
+            "rank": "z"
+          },
+          "/attributes/@cnv2": {
+            "id": "/attributes/@cnv2",
+            "fieldPath": "/attributes/@cnv2",
+            "rank": "zV"
+          },
+          "/attributes/@cnv3": {
+            "id": "/attributes/@cnv3",
+            "fieldPath": "/attributes/@cnv3",
+            "rank": "zk"
+          },
+          "/attributes/@cnv4": {
+            "id": "/attributes/@cnv4",
+            "fieldPath": "/attributes/@cnv4",
+            "rank": "zs"
+          },
+          "/attributes/@cnv5": {
+            "id": "/attributes/@cnv5",
+            "fieldPath": "/attributes/@cnv5",
+            "rank": "zw"
+          },
+          "/attributes/@cnv6": {
+            "id": "/attributes/@cnv6",
+            "fieldPath": "/attributes/@cnv6",
+            "rank": "zy"
+          },
+          "/attributes/@cnv7": {
+            "id": "/attributes/@cnv7",
+            "fieldPath": "/attributes/@cnv7",
+            "rank": "zz"
+          }
+        }
+      },
+      "gantt": {
+        "id": "gantt",
+        "type": "gantt",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@cnv1": {
+            "id": "/attributes/@cnv1",
+            "fieldPath": "/attributes/@cnv1",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@cnv2": {
+            "id": "/attributes/@cnv2",
+            "fieldPath": "/attributes/@cnv2",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@cnv3": {
+            "id": "/attributes/@cnv3",
+            "fieldPath": "/attributes/@cnv3",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@cnv4": {
+            "id": "/attributes/@cnv4",
+            "fieldPath": "/attributes/@cnv4",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/@cnv5": {
+            "id": "/attributes/@cnv5",
+            "fieldPath": "/attributes/@cnv5",
+            "rank": "zw",
+            "hidden": false
+          },
+          "/attributes/@cnv6": {
+            "id": "/attributes/@cnv6",
+            "fieldPath": "/attributes/@cnv6",
+            "rank": "zy",
+            "hidden": false
+          },
+          "/attributes/@cnv7": {
+            "id": "/attributes/@cnv7",
+            "fieldPath": "/attributes/@cnv7",
+            "rank": "zz",
+            "hidden": false
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "V",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@cnv1": {
+            "id": "/attributes/@cnv1",
+            "fieldPath": "/attributes/@cnv1",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@cnv2": {
+            "id": "/attributes/@cnv2",
+            "fieldPath": "/attributes/@cnv2",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@cnv3": {
+            "id": "/attributes/@cnv3",
+            "fieldPath": "/attributes/@cnv3",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@cnv4": {
+            "id": "/attributes/@cnv4",
+            "fieldPath": "/attributes/@cnv4",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/@cnv5": {
+            "id": "/attributes/@cnv5",
+            "fieldPath": "/attributes/@cnv5",
+            "rank": "zw",
+            "hidden": false
+          },
+          "/attributes/@cnv6": {
+            "id": "/attributes/@cnv6",
+            "fieldPath": "/attributes/@cnv6",
+            "rank": "zy",
+            "hidden": false
+          },
+          "/attributes/@cnv7": {
+            "id": "/attributes/@cnv7",
+            "fieldPath": "/attributes/@cnv7",
+            "rank": "zz",
+            "hidden": false
+          }
+        }
+      }
+    },
+    "fields": {
+      "@cnv1": {
+        "type": "string",
+        "displayName": "Provider"
+      },
+      "@cnv2": {
+        "type": "string",
+        "displayName": "Model"
+      },
+      "@cnv3": {
+        "type": "string",
+        "displayName": "Persona"
+      },
+      "@cnv4": {
+        "type": "number",
+        "displayName": "Messages",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@cnv5": {
+        "type": "number",
+        "displayName": "Tokens Used",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@cnv6": {
+        "type": "Select",
+        "displayName": "Status",
+        "options": {
+          "active": {
+            "id": "active",
+            "name": "Active",
+            "color": "#22c55e",
+            "rank": "0"
+          },
+          "archived": {
+            "id": "archived",
+            "name": "Archived",
+            "color": "#6b7280",
+            "rank": "1"
+          }
+        }
+      },
+      "@cnv7": {
+        "type": "DateTime",
+        "title": "Started At"
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "table",
+    "avatar": {
+      "type": "emoji",
+      "value": "🔎"
+    }
+  }
+}

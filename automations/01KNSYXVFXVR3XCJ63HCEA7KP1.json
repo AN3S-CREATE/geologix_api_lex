@@ -1,0 +1,62 @@
+{
+  "version": "2",
+  "flowTitle": "Daily Usage Analytics Report",
+  "trigger": {
+    "valid": true,
+    "displayName": "Daily at 8AM",
+    "type": "PIECE_TRIGGER",
+    "settings": {
+      "pieceName": "@taskade/automade-internalpiece-schedule",
+      "pieceVersion": "1.0.0",
+      "triggerName": "schedule.daily",
+      "input": {
+        "timezone": "Africa/Johannesburg",
+        "timeOfDay": "8:00 AM"
+      }
+    }
+  },
+  "actions": [
+    {
+      "name": "b2000001-0000-4000-8000-000000000001",
+      "valid": true,
+      "displayName": "Generate Analytics Summary",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-openai",
+        "pieceVersion": "1.0.0",
+        "actionName": "ai.generate",
+        "input": {
+          "input": "Generate daily analytics report for NexusAI platform - April 2026",
+          "prompt": "You are a usage analytics assistant for NexusAI, a multi-provider AI chat platform. Generate a concise daily analytics summary report for the team. Include: 1) Total conversations and messages processed, 2) Top providers used, 3) Most popular models, 4) Key insights and recommendations for platform optimization. Keep it to 3-4 bullet points per section. Format as a clean markdown report."
+        }
+      }
+    },
+    {
+      "name": "b2000002-0000-4000-8000-000000000001",
+      "valid": false,
+      "displayName": "Log Analytics Report",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "1.0.0",
+        "actionName": "task.create",
+        "input": {
+          "content": "Daily Report - {{ trigger[\"triggerTime\"] }}",
+          "position": "afterbegin",
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "wYUfzHZMDrJSbGNT"
+          }
+        }
+      }
+    }
+  ],
+  "variables": {
+    "wYUfzHZMDrJSbGNT": {
+      "id": "wYUfzHZMDrJSbGNT",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}

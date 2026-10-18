@@ -1,0 +1,67 @@
+{
+  "version": "2",
+  "flowTitle": "Proxy — HuggingFace",
+  "trigger": {
+    "valid": true,
+    "type": "WEBHOOK",
+    "settings": {
+      "input": {
+        "type": "object",
+        "properties": {
+          "model": {
+            "type": "string",
+            "description": "Input for model"
+          },
+          "messages": {
+            "type": "string",
+            "description": "Input for messages"
+          },
+          "max_tokens": {
+            "type": "number"
+          },
+          "temperature": {
+            "type": "number"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "actions": [
+    {
+      "name": "a1b2c3d4-0002-0002-0002-000000000002",
+      "valid": true,
+      "displayName": "Call HuggingFace API",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-piece-http",
+        "pieceVersion": "1.0.0",
+        "actionName": "http.sendRequest",
+        "input": {
+          "url": "https://api-inference.huggingface.co/v1/chat/completions",
+          "body": "{{ trigger[\"body\"][\"messages\"] }}",
+          "method": "POST",
+          "bodyType": "json",
+          "responseType": "json"
+        }
+      }
+    }
+  ],
+  "outputs": [
+    {
+      "type": "http_response",
+      "body": {
+        "type": "json",
+        "data": {
+          "type": "basic",
+          "payload": [
+            {
+              "result": "{{ a1b2c3d4-0002-0002-0002-000000000002[\"data\"] }}"
+            }
+          ]
+        }
+      },
+      "key": "trigger"
+    }
+  ]
+}

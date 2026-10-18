@@ -1,0 +1,41 @@
+{
+  "version": "2",
+  "flowTitle": "Document Intelligence",
+  "trigger": {
+    "valid": false,
+    "displayName": "New File",
+    "type": "PIECE_TRIGGER",
+    "settings": {
+      "pieceName": "@taskade/automade-piece-google-drive",
+      "pieceVersion": "BLANK",
+      "triggerName": "new_file",
+      "input": {}
+    }
+  },
+  "actions": [
+    {
+      "name": "42caffb3-2753-4433-9595-f5043162008f",
+      "valid": false,
+      "displayName": "Generate with AI",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-openai",
+        "pieceVersion": "BLANK",
+        "actionName": "ai.generate",
+        "input": {}
+      }
+    },
+    {
+      "name": "803a179d-8230-4404-8ecc-7779fcd02e0d",
+      "valid": false,
+      "displayName": "Add Task",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "BLANK",
+        "actionName": "task.create",
+        "input": {}
+      }
+    }
+  ]
+}

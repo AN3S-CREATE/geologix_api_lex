@@ -1,0 +1,87 @@
+{
+  "version": "2",
+  "flowTitle": "Log New Conversation",
+  "trigger": {
+    "valid": true,
+    "type": "WEBHOOK",
+    "settings": {
+      "input": {
+        "type": "object",
+        "properties": {
+          "model": {
+            "type": "string",
+            "description": "Input for model"
+          },
+          "title": {
+            "type": "string",
+            "description": "Input for title"
+          },
+          "tokens": {
+            "type": "number"
+          },
+          "persona": {
+            "type": "string",
+            "description": "Input for persona"
+          },
+          "provider": {
+            "type": "string",
+            "description": "Input for provider"
+          },
+          "messageCount": {
+            "type": "number"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "actions": [
+    {
+      "name": "a2000001-0000-4000-8000-000000000001",
+      "valid": false,
+      "displayName": "Save Conversation to History",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "1.0.0",
+        "actionName": "task.create",
+        "input": {
+          "content": "{{ trigger[\"body\"][\"title\"] }}",
+          "position": "afterbegin",
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "wYUfzHZMDrJSbGNT"
+          }
+        }
+      }
+    }
+  ],
+  "outputs": [
+    {
+      "type": "http_response",
+      "body": {
+        "type": "json",
+        "data": {
+          "type": "basic",
+          "payload": [
+            {
+              "success": "true"
+            },
+            {
+              "message": "Conversation logged: {{ trigger[\"body\"][\"title\"] }}"
+            }
+          ]
+        }
+      },
+      "key": "trigger"
+    }
+  ],
+  "variables": {
+    "wYUfzHZMDrJSbGNT": {
+      "id": "wYUfzHZMDrJSbGNT",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}

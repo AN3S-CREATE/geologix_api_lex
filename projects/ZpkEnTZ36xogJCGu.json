@@ -1,0 +1,1471 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "d1000001-0000-4000-8000-000000000001",
+        "text": {
+          "ops": [
+            {
+              "insert": "Prompt Library"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "d1000002-0000-4000-8000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Code Review Expert",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prm1": {
+                "type": "Select",
+                "optionId": "code"
+              },
+              "@prm2": "Review the following code for bugs, security issues, performance improvements, and best practices. Provide specific line-by-line feedback.",
+              "@prm3": 142
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d1000003-0000-4000-8000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Executive Summary Writer",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prm1": {
+                "type": "Select",
+                "optionId": "writing"
+              },
+              "@prm2": "Transform the following content into a concise executive summary with key takeaways, action items, and a one-line TL;DR for busy executives.",
+              "@prm3": 89
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d1000004-0000-4000-8000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Data Analyst",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prm1": {
+                "type": "Select",
+                "optionId": "analysis"
+              },
+              "@prm2": "Analyze the provided data and identify key patterns, outliers, and actionable insights. Present findings in a structured format with supporting evidence.",
+              "@prm3": 67
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d1000005-0000-4000-8000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Research Synthesizer",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prm1": {
+                "type": "Select",
+                "optionId": "research"
+              },
+              "@prm2": "Synthesize the provided sources into a comprehensive research brief. Include conflicting viewpoints, consensus positions, and knowledge gaps.",
+              "@prm3": 53
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d1000006-0000-4000-8000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Explain Like I'm 5",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prm1": {
+                "type": "Select",
+                "optionId": "general"
+              },
+              "@prm2": "Explain the following concept in the simplest possible terms, using analogies and examples a child could understand. Avoid jargon.",
+              "@prm3": 201
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e1000001-0000-4000-8000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Contract Clause Analyser",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prm1": {
+                "type": "Select",
+                "optionId": "law"
+              },
+              "@prm2": "You are a senior contract lawyer. Carefully review the following contract clause and identify: (1) any ambiguous or undefined terms, (2) obligations and liabilities each party undertakes, (3) clauses that may be unenforceable or legally risky, (4) missing standard protections, and (5) recommended redlines with plain-English explanations.",
+              "@prm3": 0
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e1000002-0000-4000-8000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Legal Brief Drafter",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prm1": {
+                "type": "Select",
+                "optionId": "law"
+              },
+              "@prm2": "You are an experienced litigator. Draft a formal legal brief based on the facts and arguments provided. Structure it with: Statement of Facts, Issues Presented, Legal Standard, Argument (with case citations where possible), and Conclusion. Use precise legal language and persuasive reasoning.",
+              "@prm3": 0
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e1000003-0000-4000-8000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Regulatory Compliance Checker",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prm1": {
+                "type": "Select",
+                "optionId": "law"
+              },
+              "@prm2": "You are a regulatory compliance specialist. Review the following policy, procedure, or business practice and assess: (1) applicable laws and regulations, (2) current compliance gaps, (3) enforcement risk level (High/Medium/Low) with rationale, (4) specific remediation steps, and (5) a compliance timeline recommendation.",
+              "@prm3": 0
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e2000001-0000-4000-8000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Tax Liability Estimator",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prm1": {
+                "type": "Select",
+                "optionId": "tax"
+              },
+              "@prm2": "You are a tax advisor. Based on the financial details provided, estimate the likely tax liability for the relevant jurisdiction. Break down: (1) applicable tax categories (income, capital gains, VAT, etc.), (2) allowable deductions and exemptions, (3) estimated net tax owed, (4) potential risks or triggers for an audit, and (5) planning opportunities to reduce the liability legally.",
+              "@prm3": 0
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e2000002-0000-4000-8000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Transfer Pricing Memo",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prm1": {
+                "type": "Select",
+                "optionId": "tax"
+              },
+              "@prm2": "You are an international tax specialist. Draft a transfer pricing memo for the intercompany transaction described. Cover: (1) the arm's length principle and applicable OECD guidelines, (2) the most appropriate transfer pricing method and rationale, (3) comparable uncontrolled transactions or benchmarks, (4) documentation requirements, and (5) BEPS compliance considerations.",
+              "@prm3": 0
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e2000003-0000-4000-8000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "VAT / GST Position Paper",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prm1": {
+                "type": "Select",
+                "optionId": "tax"
+              },
+              "@prm2": "You are a VAT/GST specialist. Analyse the supply of goods or services described and determine: (1) whether the supply is taxable, exempt, or zero-rated, (2) the place of supply rules that apply, (3) the correct VAT/GST treatment and rate, (4) any partial exemption or recovery limitations, and (5) invoice and reporting requirements.",
+              "@prm3": 0
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e3000001-0000-4000-8000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Digital Forensics Report",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prm1": {
+                "type": "Select",
+                "optionId": "forensics"
+              },
+              "@prm2": "You are a certified digital forensics examiner. Produce a structured forensic examination report based on the evidence described. Include: (1) chain of custody summary, (2) examination methodology and tools used, (3) key artefacts discovered (files, timestamps, user activity, deleted data), (4) timeline reconstruction, and (5) findings stated in objective, court-admissible language.",
+              "@prm3": 0
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e3000002-0000-4000-8000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Financial Fraud Investigator",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prm1": {
+                "type": "Select",
+                "optionId": "forensics"
+              },
+              "@prm2": "You are a forensic accountant specialising in financial fraud. Analyse the transactions or financial records provided and identify: (1) red flags and anomalies, (2) likely fraud schemes (e.g. embezzlement, Ponzi, invoice fraud), (3) estimated financial impact, (4) how the fraud was concealed, and (5) recommended evidence-gathering steps and internal controls to prevent recurrence.",
+              "@prm3": 0
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e3000003-0000-4000-8000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Incident Scene Reconstruction",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prm1": {
+                "type": "Select",
+                "optionId": "forensics"
+              },
+              "@prm2": "You are a forensic reconstruction specialist. Based on the evidence, witness accounts, and physical data provided, reconstruct the sequence of events. Produce: (1) a timeline of events with confidence levels, (2) physical or digital evidence supporting each stage, (3) alternative hypotheses and reasons for ruling them out, (4) gaps in the evidence and their implications, and (5) expert conclusions in objective, evidence-based language.",
+              "@prm3": 0
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e4000001-0000-4000-8000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Business Plan Writer",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prm1": {
+                "type": "Select",
+                "optionId": "business"
+              },
+              "@prm2": "You are a seasoned business strategist. Write a compelling, investor-ready business plan for the venture described. Structure it as: Executive Summary, Problem & Solution, Market Opportunity (TAM/SAM/SOM), Product/Service Description, Business Model & Revenue Streams, Go-to-Market Strategy, Competitive Landscape, Team, Financial Projections (3-year), and Funding Ask with Use of Funds.",
+              "@prm3": 0
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e4000002-0000-4000-8000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "SWOT & Competitive Analysis",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prm1": {
+                "type": "Select",
+                "optionId": "business"
+              },
+              "@prm2": "You are a strategic business analyst. Conduct a thorough SWOT analysis and competitive landscape assessment for the company or product described. Provide: (1) Strengths, Weaknesses, Opportunities, Threats with specific evidence, (2) top 3–5 competitors with their positioning, pricing, and differentiators, (3) the company's sustainable competitive advantage, (4) strategic recommendations mapped to SWOT findings, and (5) key metrics to track strategic progress.",
+              "@prm3": 0
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e4000003-0000-4000-8000-000000000001",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Investor Pitch Deck Script",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@prm1": {
+                "type": "Select",
+                "optionId": "business"
+              },
+              "@prm2": "You are a pitch coach who has helped companies raise over $1B in funding. Write a compelling 10-slide pitch deck script for the startup described. Each slide should have: a headline, key talking points (3 bullets max), the core narrative hook, and a transition to the next slide. Slides: Problem, Solution, Market Size, Product Demo, Traction, Business Model, Competition, Team, Financials, Ask.",
+              "@prm3": 0
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e5889eaa-b07f-4942-bdfb-3ece0643dfd3",
+            "text": {
+              "ops": [
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1c2d5342-136a-4076-9a03-a150571309e1",
+            "text": {
+              "ops": [
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e8878862-0bee-452f-8e30-428a90c7e8d2",
+            "text": {
+              "ops": [
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "8d0d6020-93f3-4224-a2e2-3c07e437b5b0",
+            "text": {
+              "ops": [
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "791517ca-fa9c-4068-933b-3ee1ea978522",
+            "text": {
+              "ops": [
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "8526ecf9-6a8d-406d-a8f3-c223e06f301c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2b1fee6b-9084-4027-b5c0-59b6bf919221",
+            "text": {
+              "ops": [
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "4bb03e1d-22b1-4e18-905e-de32341db57d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d48d4bb2-9cfd-4d52-88b4-36c6d3f0b71b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c52a1d9d-2f94-4955-ad19-94e02a3f8554",
+            "text": {
+              "ops": [
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@prm1": {
+            "id": "/attributes/@prm1",
+            "fieldPath": "/attributes/@prm1",
+            "rank": "z"
+          },
+          "/attributes/@prm2": {
+            "id": "/attributes/@prm2",
+            "fieldPath": "/attributes/@prm2",
+            "rank": "zV"
+          },
+          "/attributes/@prm3": {
+            "id": "/attributes/@prm3",
+            "fieldPath": "/attributes/@prm3",
+            "rank": "zk"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@prm1": {
+            "id": "/attributes/@prm1",
+            "fieldPath": "/attributes/@prm1",
+            "rank": "z"
+          },
+          "/attributes/@prm2": {
+            "id": "/attributes/@prm2",
+            "fieldPath": "/attributes/@prm2",
+            "rank": "zV"
+          },
+          "/attributes/@prm3": {
+            "id": "/attributes/@prm3",
+            "fieldPath": "/attributes/@prm3",
+            "rank": "zk"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "D",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@prm1": {
+            "id": "/attributes/@prm1",
+            "fieldPath": "/attributes/@prm1",
+            "rank": "z"
+          },
+          "/attributes/@prm2": {
+            "id": "/attributes/@prm2",
+            "fieldPath": "/attributes/@prm2",
+            "rank": "zV"
+          },
+          "/attributes/@prm3": {
+            "id": "/attributes/@prm3",
+            "fieldPath": "/attributes/@prm3",
+            "rank": "zk"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "E",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@prm1": {
+            "id": "/attributes/@prm1",
+            "fieldPath": "/attributes/@prm1",
+            "rank": "z"
+          },
+          "/attributes/@prm2": {
+            "id": "/attributes/@prm2",
+            "fieldPath": "/attributes/@prm2",
+            "rank": "zV"
+          },
+          "/attributes/@prm3": {
+            "id": "/attributes/@prm3",
+            "fieldPath": "/attributes/@prm3",
+            "rank": "zk"
+          }
+        }
+      },
+      "gantt": {
+        "id": "gantt",
+        "type": "gantt",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@prm1": {
+            "id": "/attributes/@prm1",
+            "fieldPath": "/attributes/@prm1",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@prm2": {
+            "id": "/attributes/@prm2",
+            "fieldPath": "/attributes/@prm2",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@prm3": {
+            "id": "/attributes/@prm3",
+            "fieldPath": "/attributes/@prm3",
+            "rank": "zk",
+            "hidden": false
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "V",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@prm1": {
+            "id": "/attributes/@prm1",
+            "fieldPath": "/attributes/@prm1",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@prm2": {
+            "id": "/attributes/@prm2",
+            "fieldPath": "/attributes/@prm2",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@prm3": {
+            "id": "/attributes/@prm3",
+            "fieldPath": "/attributes/@prm3",
+            "rank": "zk",
+            "hidden": false
+          }
+        }
+      }
+    },
+    "fields": {
+      "@prm1": {
+        "type": "Select",
+        "displayName": "Use Case",
+        "options": {
+          "code": {
+            "id": "code",
+            "name": "Code",
+            "color": "#22c55e",
+            "rank": "0"
+          },
+          "writing": {
+            "id": "writing",
+            "name": "Writing",
+            "color": "#3b82f6",
+            "rank": "1"
+          },
+          "analysis": {
+            "id": "analysis",
+            "name": "Analysis",
+            "color": "#f59e0b",
+            "rank": "2"
+          },
+          "research": {
+            "id": "research",
+            "name": "Research",
+            "color": "#8b5cf6",
+            "rank": "3"
+          },
+          "general": {
+            "id": "general",
+            "name": "General",
+            "color": "#6b7280",
+            "rank": "4"
+          },
+          "law": {
+            "id": "law",
+            "name": "Law",
+            "color": "#64748b",
+            "rank": "5"
+          },
+          "tax": {
+            "id": "tax",
+            "name": "Tax",
+            "color": "#f97316",
+            "rank": "6"
+          },
+          "forensics": {
+            "id": "forensics",
+            "name": "Forensics",
+            "color": "#ef4444",
+            "rank": "7"
+          },
+          "business": {
+            "id": "business",
+            "name": "Business",
+            "color": "#14b8a6",
+            "rank": "8"
+          }
+        }
+      },
+      "@prm2": {
+        "type": "string",
+        "displayName": "Prompt Content"
+      },
+      "@prm3": {
+        "type": "number",
+        "displayName": "Uses",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "table",
+    "avatar": {
+      "type": "emoji",
+      "value": "💭"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "version": "2",
+  "flowTitle": "Document Intelligence",
+  "trigger": {
+    "valid": false,
+    "displayName": "New File",
+    "type": "PIECE_TRIGGER",
+    "settings": {
+      "pieceName": "@taskade/automade-piece-google-drive",
+      "pieceVersion": "BLANK",
+      "triggerName": "new_fileV2",
+      "input": {}
+    }
+  },
+  "actions": [
+    {
+      "name": "893a828b-db31-43ea-ae9d-b70e06c02cab",
+      "valid": true,
+      "displayName": "Generate with AI",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-openai",
+        "pieceVersion": "BLANK",
+        "actionName": "ai.generate",
+        "input": {
+          "prompt": "When user asks for information retrieve and generate "
+        }
+      }
+    },
+    {
+      "name": "7b236215-d22c-4c5e-be17-7499ea46cd20",
+      "valid": false,
+      "displayName": "Add Task",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "BLANK",
+        "actionName": "task.create",
+        "input": {
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "ZpkEnTZ36xogJCGu"
+          }
+        }
+      }
+    }
+  ],
+  "variables": {
+    "ZpkEnTZ36xogJCGu": {
+      "id": "ZpkEnTZ36xogJCGu",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}

@@ -1,0 +1,194 @@
+/* Tailwind CSS v3 */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 152 40% 96%;
+    --foreground: 160 30% 10%;
+    --muted: 74 59% 54%;
+    --muted-foreground: 155 15% 42%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 160 30% 10%;
+    --border: 0 0% 100%;
+    --input: 152 25% 88%;
+    --card: 0 0% 100%;
+    --card-foreground: 160 30% 10%;
+    --primary: 74 58% 54%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 152 30% 91%;
+    --secondary-foreground: 160 30% 10%;
+    --accent: 74 58% 54%;
+    --accent-foreground: 152 68% 24%;
+    --destructive: 0 100% 50%;
+    --destructive-foreground: 0 0% 100%;
+    --ring: 152 68% 32%;
+    --radius: 1.2rem;
+  }
+
+  .dark {
+    --background: 152 40% 4%;
+    --foreground: 160 30% 90%;
+    --muted: 74 50% 20%;
+    --muted-foreground: 155 15% 58%;
+    --accent: 74 50% 20%;
+    --accent-foreground: 152 68% 76%;
+    --popover: 0 0% 3%;
+    --popover-foreground: 160 30% 90%;
+    --border: 0 0% 10%;
+    --input: 152 25% 12%;
+    --card: 0 0% 3%;
+    --card-foreground: 160 30% 90%;
+    --primary: 74 58% 46%;
+    --primary-foreground: 0 0% 2%;
+    --secondary: 152 30% 9%;
+    --secondary-foreground: 160 30% 90%;
+    --destructive: 0 70% 33%;
+    --destructive-foreground: 0 0% 90%;
+    --ring: 152 50% 20%;
+    --radius: 1.2rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply font-sans antialiased bg-background text-foreground;
+  }
+}
+
+:root {
+  --sidebar: hsl(0 0% 98%);
+  --sidebar-foreground: hsl(240 5.3% 26.1%);
+  --sidebar-primary: hsl(240 5.9% 10%);
+  --sidebar-primary-foreground: hsl(0 0% 98%);
+  --sidebar-accent: hsl(240 4.8% 95.9%);
+  --sidebar-accent-foreground: hsl(240 5.9% 10%);
+  --sidebar-border: hsl(220 13% 91%);
+  --sidebar-ring: hsl(217.2 91.2% 59.8%);
+}
+
+.dark {
+  --sidebar: hsl(240 5.9% 10%);
+  --sidebar-foreground: hsl(240 4.8% 95.9%);
+  --sidebar-primary: hsl(224.3 76.3% 48%);
+  --sidebar-primary-foreground: hsl(0 0% 100%);
+  --sidebar-accent: hsl(240 3.7% 15.9%);
+  --sidebar-accent-foreground: hsl(240 4.8% 95.9%);
+  --sidebar-border: hsl(240 3.7% 15.9%);
+  --sidebar-ring: hsl(217.2 91.2% 59.8%);
+}
+
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* ── Global UI scale — 90% zoom ───────────────────────────────────────────── */
+html {
+  zoom: 0.9;
+}
+
+/* Mobile safe area */
+.pb-safe {
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+/* Skeleton shimmer animation */
+@keyframes shimmer {
+  0%   { transform: translateX(-100%); }
+  100% { transform: translateX(200%); }
+}
+
+.animate-shimmer {
+  animation: shimmer 2s linear infinite;
+}
+
+/* Respect reduced motion — freeze shimmer */
+@media (prefers-reduced-motion: reduce) {
+  .animate-shimmer,
+  [class*="animate-[shimmer"] {
+    animation: none !important;
+  }
+}
+
+/* Full screen spinner styles */
+.genesis__spinner-container {
+  position: fixed;
+  inset: 0;
+  background: #000000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+
+.genesis__spinner-ring {
+  width: 20px;
+  height: 20px;
+  border: 1.5px solid transparent;
+  border-top: 1.5px solid rgba(255, 255, 255, 0.6);
+  border-radius: 50%;
+  animation: genesis__spin 1s linear infinite;
+}
+
+@keyframes genesis__spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Respect reduced motion preferences */
+@media (prefers-reduced-motion: reduce) {
+  .genesis__spinner-ring {
+    animation: none;
+    border-top-color: rgba(255, 255, 255, 0.9);
+  }
+}
+
+/* ── Provider hero animations ─────────────────────────────────────────────── */
+
+@keyframes fadeScale {
+  from { opacity: 0; transform: scale(0.92) translateY(10px); }
+  to   { opacity: 1; transform: scale(1)    translateY(0);    }
+}
+
+.animate-fade-scale {
+  animation: fadeScale 0.36s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+/* Glass card — backdrop blur + translucent surface */
+.glass-card {
+  backdrop-filter: blur(12px) saturate(180%);
+  -webkit-backdrop-filter: blur(12px) saturate(180%);
+  background: hsl(var(--card) / 0.65);
+  border: 1px solid hsl(var(--border) / 0.8);
+}
+
+/* Card hover glow (provider-colored shadow is set via Tailwind utility) */
+.card-hover-lift {
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+.card-hover-lift:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 28px -4px rgba(0, 0, 0, 0.14);
+}
+
+/* Respect reduced motion — no animations in hero */
+@media (prefers-reduced-motion: reduce) {
+  .animate-fade-scale {
+    animation: none;
+    opacity: 1;
+    transform: none;
+  }
+  .card-hover-lift:hover {
+    transform: none;
+  }
+}
